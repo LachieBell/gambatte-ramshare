@@ -1,6 +1,6 @@
 # gambatte-speedrun
 
-Fork of https://github.com/sinamas/gambatte with changes related to Pokemon speedrunning. Under GPLv2.
+Fork of https://github.com/pokemon-speedrunning/gambatte-speedrun which is a fork of https://github.com/sinamas/gambatte with with ram-share capabilities. Under GPLv2.
 
 This has been updated to build using Qt5 instead of Qt4. If you have Qt5 dependencies, building should be easy enough. It can be built on windows using [msys2](https://msys2.github.io/) and the qt5-static package.
 
