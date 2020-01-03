@@ -2,6 +2,13 @@
 
 Fork of https://github.com/pokemon-speedrunning/gambatte-speedrun which is a fork of https://github.com/sinamas/gambatte with with ram-share capabilities. Under GPLv2.
 
+Tips for building (on windows with msys2):
+    Use qt5 version mingw-w64-x86_64-qt5-static-5.10.1
+    Use openssl version mingw-w64-x86_64-openssl-1.0.2
+You can download these packages from [here](http://repo.msys2.org/)
+
+
+
 This has been updated to build using Qt5 instead of Qt4. If you have Qt5 dependencies, building should be easy enough. It can be built on windows using [msys2](https://msys2.github.io/) and the qt5-static package.
 
 To build it on Debian, do:
